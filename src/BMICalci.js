@@ -48,7 +48,6 @@ function BMICalci() {
   const handleWeight = (e) => {
     setWeight(e.target.value);
   };
-
   return (
     <div className="App">
       <h1>BMI Calculator</h1>
